@@ -1,0 +1,382 @@
+2017-04-24 21:51:05,266 [INFO] [('54.204.129.96', 42329)] [Team - 129] Got file: /home/ubuntu/info-collector/Backend/logs/team129/query.h
+
+2017-04-24 21:51:05,296 [INFO] [('54.204.129.96', 36299)] [Team - 129] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team129/query.h
+
+2017-04-24 21:52:19,429 [INFO] [54.204.129.96] [Team - 129] Got file: /home/ubuntu/info-collector/Backend/logs/team129/query.h
+
+2017-04-24 21:52:19,470 [INFO] [54.204.129.96] [Team - 129] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team129/query.h
+
+2017-04-25 02:39:40,875 [INFO] [5] [Team - 129] No file in request
+
+2017-04-25 02:40:15,654 [INFO] [5] [Team - 129] No file in request
+
+2017-04-25 02:54:17,491 [INFO] [6] [Team - 87] No file in request
+
+2017-04-25 02:58:23,821 [INFO] [5] [Team - 129] File query.h uploaded successfully
+
+2017-04-29 06:40:48,626 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171//etc/passwd
+
+2017-04-29 06:40:48,640 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171//etc/passwd
+
+2017-04-29 06:46:05,316 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171//etc/passwd
+
+2017-04-29 06:46:05,328 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171//etc/passwd
+
+2017-04-29 06:47:21,512 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:47:21,524 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:50:43,240 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:50:43,253 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:55:20,287 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:55:20,316 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:56:23,047 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:56:23,085 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:56:56,959 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:56:57,045 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:56:57,048 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:56:57,078 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:57:29,303 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:57:29,391 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcpasswd
+
+2017-04-29 06:57:29,393 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcgroup
+
+2017-04-29 06:57:29,425 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcgroup
+
+2017-04-29 06:57:29,425 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 06:57:29,429 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/etcsudoers
+
+2017-04-29 07:40:01,189 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 60923)/etcpasswd
+
+2017-04-29 07:40:01,232 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 34557)/etcpasswd
+
+2017-04-29 07:40:01,315 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 46178)/etcgroup
+
+2017-04-29 07:40:01,344 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 46178)/etcgroup
+
+2017-04-29 07:40:01,344 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 45131)/etcgroup
+
+2017-04-29 07:40:01,351 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 60486)/etcsudoers
+
+2017-04-29 07:40:01,366 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 60486)/etcsudoers
+
+2017-04-29 07:40:01,431 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 55276)/etcshadow
+
+2017-04-29 07:40:01,468 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/('34.202.171.147', 55276)/etcshadow
+
+2017-04-29 07:50:01,510 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:50:01,603 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:50:01,605 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:50:01,634 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:50:01,636 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:50:01,662 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:50:01,662 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:50:01,668 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 07:50:01,672 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 07:50:01,737 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 07:50:01,801 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 07:52:07,035 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:52:07,127 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:52:07,129 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:52:07,165 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:52:07,165 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 07:52:07,169 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 07:52:07,169 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 07:52:14,491 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 07:52:14,493 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 07:52:14,524 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/varmail.tar.gz
+
+2017-04-29 07:52:14,529 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/varmail.tar.gz
+
+2017-04-29 07:52:14,559 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/root.tar.gz
+
+2017-04-29 07:52:14,565 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/root.tar.gz
+
+2017-04-29 07:52:14,595 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/home.tar.gz
+
+2017-04-29 07:52:14,600 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/home.tar.gz
+
+2017-04-29 07:58:06,226 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:58:06,318 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 07:58:06,321 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:58:06,354 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 07:58:06,354 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 07:58:06,364 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 07:58:06,365 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 07:58:06,756 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 07:58:08,922 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/varmail.tar.gz
+
+2017-04-29 07:58:08,923 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/varmail.tar.gz
+
+2017-04-29 07:58:08,929 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/root.tar.gz
+
+2017-04-29 07:58:08,950 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/root.tar.gz
+
+2017-04-29 07:58:13,280 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/home.tar.gz
+
+2017-04-29 08:04:53,646 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:04:53,728 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:04:53,731 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:04:53,773 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:04:53,776 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:04:53,797 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:04:53,797 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:04:54,138 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:04:54,822 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:04:57,897 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:05:03,924 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:10:01,196 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:10:01,275 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:10:01,277 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:10:01,319 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:10:01,350 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:10:01,350 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:10:01,354 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:10:01,358 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:10:01,407 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:10:01,454 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:10:02,518 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:10:03,929 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:10:03,950 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:10:04,004 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:10:04,085 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:10:09,784 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:10:12,961 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:10:18,806 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:17:01,915 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:17:02,005 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:17:02,007 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:17:02,049 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:17:02,051 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:17:02,072 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:17:02,076 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:17:02,101 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:17:02,562 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:17:03,245 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:17:15,405 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:17:21,330 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:20:01,419 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:20:01,509 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:20:01,511 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:20:01,544 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:20:01,575 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:20:01,579 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:20:01,584 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:20:01,629 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:20:01,683 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:20:02,863 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:20:04,227 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:20:04,291 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:20:04,301 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:20:10,048 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:20:18,664 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:20:24,498 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:30:01,589 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:30:01,681 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:30:01,684 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:30:01,718 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:30:01,760 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:30:01,833 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:30:01,878 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:30:02,367 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:30:02,408 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:30:02,808 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:30:02,891 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:30:03,219 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:30:03,507 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:30:03,796 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:30:04,643 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:30:06,039 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:30:09,688 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:30:19,185 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:30:25,001 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:40:01,135 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:40:01,226 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:40:01,228 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:40:01,259 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:40:01,267 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:40:01,291 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:40:01,292 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:40:01,296 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:40:01,350 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:40:01,411 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:40:02,078 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:40:02,318 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:40:03,438 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:40:03,516 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:40:03,575 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:40:03,586 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:40:09,165 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:40:17,732 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:40:23,598 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:50:01,726 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:50:01,796 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:50:01,797 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcpasswd
+
+2017-04-29 08:50:01,861 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:50:01,897 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:50:01,938 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcgroup
+
+2017-04-29 08:50:01,939 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:50:01,972 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcsudoers
+
+2017-04-29 08:50:01,985 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:50:02,046 [INFO] [3] [Team - 171] Finished writing file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/etcshadow
+
+2017-04-29 08:50:02,048 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:50:02,139 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:50:02,230 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:50:02,837 [INFO] [3] [Team - 171] Got file: /home/ubuntu/info-collector/Backend/logs/team171/34.202.171.147/tmpdump.sql
+
+2017-04-29 08:50:04,179 [INFO] [3] [Team - 171] File varmail.tar.gz uploaded successfully
+
+2017-04-29 08:50:07,808 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
+2017-04-29 08:50:17,498 [INFO] [3] [Team - 171] File root.tar.gz uploaded successfully
+
+2017-04-29 08:50:23,363 [INFO] [3] [Team - 171] File home.tar.gz uploaded successfully
+
