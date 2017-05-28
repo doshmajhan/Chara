@@ -9,17 +9,13 @@ import os
 import flask
 import threading
 import loggerd
-import database
 from flask import Flask
 from werkzeug.utils import secure_filename
 from dns import dns_server
 
-#UPLOAD_FOLDER = '/home/ubuntu/info-collector/Backend/uploads'
-LOG_DIR = '/home/ubuntu/info-collector/Backend/logs/'
+LOG_DIR = '/home/ubuntu/Chara/logs/'
 LOGGER = loggerd.Loggerd()
-#DB = database.Database()
 app = Flask(__name__)
-#app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 
 @app.route('/', methods=['GET', 'POST'])

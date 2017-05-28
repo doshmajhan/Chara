@@ -54,14 +54,13 @@ class DNSQuery:
 
         # print out flags, move in function later
 
-        """
-        print "[QR %d] [OPC %d] [AA %d] [TC %d] [RD %d] [RA %d] " \
-               "[Z %d] [AD %d] [CD %d] [RCODE %d]" % \
-               (qr, opcode, aa, tc, rd, ra, z, ad, cd, rcode)
+        print "[QR {}] [OPC {}] [AA {}] [TC {}] [RD {}] [RA {}] " \
+               "[Z {}] [AD {}] [CD {}] [RCODE {}]".format(
+               qr, opcode, aa, tc, rd, ra, z, ad, cd, rcode)
 
-        print "[# Questions: %d] [# Ans RR: %d] [# Auth RR: %d] [# Add RR: %d]" % \
-                (self.query_count, self.ans_count, self.auth_count, self.add_count)
-        """
+        print "[# Questions: {}] [# Ans RR: {}] [# Auth RR: {}] [# Add RR: {}]".format(
+                self.query_count, self.ans_count, self.auth_count, self.add_count)
+
 
     def decode_name(self, query, offset):
         """
